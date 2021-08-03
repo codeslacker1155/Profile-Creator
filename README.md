@@ -20,3 +20,7 @@ Features:
 * Uses common python modules to create fake information.
 * Creates strong passwords based upon random words.
 * Common information created for use for creating accounts.
+
+This tool can be used to make a fake identity for creating profiles online and stuff. It uses a module in python called Faker and uses this module to generate fake information. 
+
+[SCREENSHOT]
