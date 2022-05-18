@@ -29,8 +29,8 @@ for i in range(random.randrange(5,30)):
     password=fake.password(length=random.randrange(8,16), special_chars=True, upper_case=True)
     cardnum=fake.credit_card_number()
     cardcode=fake.credit_card_security_code()
-    filepath=('/Users/admin/Documents/profiles/'
-    with open(filepath+username+'.txt','w') as f:
+    filepath=('/Users/admin/Documents/profiles/')
+    with open(username +'.txt','w') as f:
         f.write('First: '+ first)
         f.write('\nLast: '+last)
         f.write('\nGender: '+gender)
