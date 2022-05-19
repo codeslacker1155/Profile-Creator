@@ -8,13 +8,8 @@ This program was originally written by me and used when I wanted to get past a c
 This can also admitly be used for nafarious purposes but I do not condone or support them. 
 
 What problem does this solve?
--
-
-What did I learn from building this?
--
-
-Why did I build this?
--
+- Can be used as placeholder data in a database
+- Can be used to avoid form filling with real info to make accounts
 
 Features:
 * Uses common python modules to create fake information.
